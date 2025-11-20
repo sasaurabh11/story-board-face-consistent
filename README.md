@@ -58,9 +58,7 @@ images[0].save("traveler.png")
 
 ## Image Preview
 
-  ```markdown
-  ![Face Consistent Sample](/public/demo2.png)
-  ```
+  ![Face Consistent Sample](/public/demo2.jpeg)----
 
 
 
